@@ -17,6 +17,7 @@ This project focuses on **exploratory data analysis (EDA)** and **RFM segmentati
 
 ## 📁 Dataset Overview
 The dataset comprises three separate Excel files, each representing a key component of customer information at IFood. 
+- Source: https://drive.google.com/drive/folders/1FE0PvORXBru-XYkd1oi55zEvKOExAnAn?usp=drive_link 
 - Scope: Analyze **demographics**, **RFM scores**, and **shopping behavior** to segment customers
 - Toolset: Power BI
 
