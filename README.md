@@ -6,12 +6,12 @@ This project focuses on **exploratory data analysis (EDA)** and **RFM segmentati
 ---
 
 ## 📌 Business Context
-- IFood is a retail food company with over **200,000 registered customers** and a database of **1 million consumers annually**.
-- A new **home delivery service** is being considered.
-- A survey was conducted with 2,200 randomly selected customers.
+- IFood is a retail food company with over **200,000 registered customers** in database and **1 million consumers annually**.
+- A new **delivery service** is being considered.
+- A survey was conducted with 2,200 randomly selected customers throughout 6 campaigns.
 
 ## 📌 Business Question
-- Determine **which customers to target** based on demographic and behavioral data.
+- Determine **which customers to target for the new delivery service** based on demographic and behavioral data.
 
 ---
 
