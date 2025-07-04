@@ -3,7 +3,7 @@
 ## 📝 Project Summary
 This project focuses on **exploratory data analysis (EDA)** and **RFM segmentation** of IFood's customer data to identify high-value segments and assess their interest in a newly proposed **food delivery service**. Insights derived are used to guide **targeted marketing strategies** and **channel optimization** for service rollout.
 
----
+
 
 ## 📌 Business Context
 - IFood is a retail food company with over **200,000 registered customers** in database and **1 million consumers annually**.
@@ -13,7 +13,7 @@ This project focuses on **exploratory data analysis (EDA)** and **RFM segmentati
 ## 📌 Business Question
 - Determine **which customers to target for the new delivery service** based on demographic and behavioral data.
 
----
+
 
 ## 📁 Dataset Overview
 The dataset comprises three separate Excel files, each representing a key component of customer information at IFood. 
@@ -21,7 +21,7 @@ The dataset comprises three separate Excel files, each representing a key compon
 - Scope: Analyze **demographics**, **RFM scores**, and **shopping behavior** to segment customers
 - Toolset: Power BI
 
----
+
 
 ## 👤 Customer Segmentation Logic
 
@@ -51,7 +51,6 @@ The dataset comprises three separate Excel files, each representing a key compon
 - Prefer **Store** (43%) and **Website** (32%) over other channels
 - Less sensitive to promotions (compared to customers who are uninterested in the new service)
 
----
 
 ## 🎯 Recommendations for Marketing team
 
