@@ -1,4 +1,4 @@
-# 📊 IFood Customer Segmentation Analysis
+# [Power BI] IFood Customer Segmentation Analysis
 
 ## 📝 Project Summary
 This project focuses on **exploratory data analysis (EDA)** and **RFM segmentation** of IFood's customer data to identify high-value segments and assess their interest in a newly proposed **food delivery service**. Insights derived are used to guide **targeted marketing strategies** and **channel optimization** for service rollout.
@@ -15,7 +15,7 @@ This project focuses on **exploratory data analysis (EDA)** and **RFM segmentati
 
 
 
-## 📁 Dataset Overview
+## 📊 Dataset Overview
 The dataset comprises three separate Excel files, each representing a key component of customer information at IFood. 
 - Source: https://drive.google.com/drive/folders/1FE0PvORXBru-XYkd1oi55zEvKOExAnAn?usp=drive_link 
 - Scope: Analyze **demographics**, **RFM scores**, and **shopping behavior** to segment customers
