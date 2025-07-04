@@ -55,10 +55,10 @@ The dataset comprises three separate Excel files, each representing a key compon
 
 ## 🎯 Recommendations for Marketing team
 
-1. **Target middle to high - RFM segments** for new service trials
-2. **Promote via Store & Website** channels where engagement is highest
-3. **Introduce trial offers** (e.g., free delivery on $50+ orders) for better conversion
-4. Consider **Personalized promotions** and **Cross-sell bundles** with wine/meat with delivery service to increase trials
+- **Target middle to high - RFM segments** for new service trials
+- **Promote via Store & Website** channels where engagement is highest
+- **Introduce trial offers** (e.g., free delivery on $50+ orders) for better conversion
+- Consider **Personalized promotions** and **Cross-sell bundles** with wine/meat with delivery service to increase trials
 
 ---
 
