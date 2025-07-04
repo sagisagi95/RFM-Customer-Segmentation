@@ -1,11 +1,11 @@
 # [Power BI] IFood Customer Segmentation Analysis
 
 ## 📝 Project Summary
-This project focuses on **exploratory data analysis (EDA)** and **RFM segmentation** of IFood's customer data to identify high-value segments and assess their interest in a newly proposed **food delivery service**. Insights derived are used to guide **targeted marketing strategies** and **channel optimization** for service rollout.
+This project focuses on **exploratory data analysis (EDA)** and **RFM segmentation** of IFood's customer data to identify high-value segments and assess their interest in a newly proposed **food delivery service**. Insights derived can be utilized for **targeted marketing strategies and channel optimization** for service rollout.
 
 
 
-## 📌 Business Context
+## I. Business Context
 - IFood is a retail food company with over **200,000 registered customers** in database and **1 million consumers annually**.
 - A new **delivery service** is being considered.
 - A survey was conducted with 2,200 randomly selected customers throughout 6 campaigns.
@@ -25,9 +25,17 @@ The dataset comprises three separate Excel files, each representing a key compon
 
 ## 👤 Customer Segmentation Logic
 
-### RFM Scoring
-- **RFM (Recency, Frequency, Monetary) = (R_Score + F_Score + M_Score)/3**
-- Scores combined to create 3 segments:
+1. **About RFM Framework**
+RFM is a marketing analysis technique that stands for Recency, Frequency, and Monetary Value. RFM is used to identify and categorize customers based on their purchasing behavior, how recently and frequently they have made purchases, and the total money spent on those purchases.
+- Recency: measures how recently a customer has made a purchase.
+- Frequency: measures how often a customer has made purchases.
+- Monetary Value: measures the total amount of money a customer has spent on purchases.
+
+
+2. **RFM Calculation**
+In RFM analysis, customers are scored based on three factors (Recency - how recently, Frequency - how often, Monetary - how much), then labeled based on the combination of RFM scores
+- **RFM Score = (R_Score + F_Score + M_Score)/3**
+- Within this project, RFM scores are combined to create 3 segments:
   - High (RFM > 25)
   - Middle (20 ≤ RFM ≤ 25)
   - Low (RFM < 20)
@@ -39,6 +47,14 @@ The dataset comprises three separate Excel files, each representing a key compon
 | Low         | 43.3%                | 27.8%               | <4%          |
 
 ---
+
+## II. Data Visualization with Power BI
+
+<img width="1389" alt="image" src="https://github.com/user-attachments/assets/3c33ceec-8308-48ae-a2d4-56a5052c87eb" />
+<img width="1387" alt="image" src="https://github.com/user-attachments/assets/9f7749f1-8cbf-46a4-ab26-e12bc05bf341" />
+<img width="1385" alt="image" src="https://github.com/user-attachments/assets/1f121e80-6964-4e5b-8ac1-23a6237834a5" />
+
+See detailed analysis in EDA_RFM Segmentation.pdf file included in this repo.
 
 ## 🔎 Key Insights
 
