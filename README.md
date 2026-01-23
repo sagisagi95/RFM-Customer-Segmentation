@@ -49,7 +49,7 @@ In RFM analysis, customers are scored based on three factors (Recency - how rece
 ---
 
 ## II. Data Visualization with Power BI
-See detailed analysis in [EDA_RFM Segmentation.pdf](EDA_RFMSegmentation.pdf) here
+See detailed analysis in [EDA_RFM Segmentation.pdf](docs/EDA_RFM%20Segmentation.pdf) here
 
 <img width="1389" alt="image" src="https://github.com/user-attachments/assets/3c33ceec-8308-48ae-a2d4-56a5052c87eb" />
 <img width="1387" alt="image" src="https://github.com/user-attachments/assets/9f7749f1-8cbf-46a4-ab26-e12bc05bf341" />
